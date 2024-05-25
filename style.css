@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+ }
+ header {
+     background-image: linear-gradient( to right, rgb(255, 155, 155) ,rgb(255, 84, 84));
+ }
+ header a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+ }
+
+    footer img {
+     box-shadow: 10px 10px 10px 0 black;
+     margin-top: 10px;
+     border-radius: 33px;
+    }
